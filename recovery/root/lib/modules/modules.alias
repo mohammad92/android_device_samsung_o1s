@@ -1076,6 +1076,7 @@ alias i2c:mfc-charger mfc_charger
 alias platform:unbound-prince unbound_prince
 alias of:N*T*Csamsung,unbound-prince unbound_prince
 alias of:N*T*Csamsung,unbound-princeC* unbound_prince
+alias platform:samsung-is-camif-dma fimc_is
 alias of:N*T*Csamsung,exynos-is fimc_is
 alias of:N*T*Csamsung,exynos-isC* fimc_is
 alias of:N*T*Csamsung,is_spi0 fimc_is
@@ -1084,6 +1085,10 @@ alias of:N*T*Csamsung,is_spi1 fimc_is
 alias of:N*T*Csamsung,is_spi1C* fimc_is
 alias of:N*T*Csamsung,exynos-is-sensor fimc_is
 alias of:N*T*Csamsung,exynos-is-sensorC* fimc_is
+alias of:Ncamif-wdmaT*Csamsung,camif-wdma fimc_is
+alias of:Ncamif-wdmaT*Csamsung,camif-wdmaC* fimc_is
+alias of:Ncamif-wdma-moduleT*Csamsung,camif-wdma-module fimc_is
+alias of:Ncamif-wdma-moduleT*Csamsung,camif-wdma-moduleC* fimc_is
 alias of:N*T*Csamsung,sensor-paf-pdp fimc_is
 alias of:N*T*Csamsung,sensor-paf-pdpC* fimc_is
 alias of:N*T*Csamsung,exynos-is-dummy fimc_is
@@ -1296,6 +1301,7 @@ alias of:N*T*Csamsung,mipi-phy-m4m4-topC* phy_exynos_mipi_dsim
 alias of:N*T*Csamsung,mipi-phy-m4m4-mod phy_exynos_mipi_dsim
 alias of:N*T*Csamsung,mipi-phy-m4m4-modC* phy_exynos_mipi_dsim
 alias platform:exynos-sci exynos_sci
+alias platform:exynos-sci_dbg exynos_sci
 alias of:N*T*Csamsung,exynos-migov exynos_migov
 alias of:N*T*Csamsung,exynos-migovC* exynos_migov
 alias of:N*T*Csamsung,exynos-is-cis-2ld is_cis_2ld
