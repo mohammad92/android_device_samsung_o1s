@@ -229,7 +229,7 @@ qbt2000_spidev.ko
 usb_typec_manager.ko
 if_cb_manager.ko
 pdic_notifier_module.ko
-pca9468_charger.ko
+pca9468-charger.ko
 hall_ic.ko
 pwm-config.ko
 abc.ko

@@ -10,7 +10,7 @@
 /lib/modules/fb.ko:
 /lib/modules/exynos-adv-tracer-s2d.ko: /lib/modules/eat.ko /lib/modules/exynos-pmu-if.ko /lib/modules/dss.ko
 /lib/modules/exynos_acpm.ko: /lib/modules/dss.ko /lib/modules/exynos-reboot.ko /lib/modules/exynos-chipid_v2.ko
-/lib/modules/pca9468_charger.ko: /lib/modules/sec_pd.ko
+/lib/modules/pca9468-charger.ko: /lib/modules/sec_pd.ko
 /lib/modules/exynos-ssld.ko:
 /lib/modules/repeater.ko:
 /lib/modules/smfc.ko: /lib/modules/videobuf2-dma-sg.ko /lib/modules/v4l2-mem2mem.ko
